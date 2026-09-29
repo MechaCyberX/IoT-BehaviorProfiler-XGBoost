@@ -1,0 +1,7 @@
+# Live monitor output: a log of your own network traffic
+output/alerts_live.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
